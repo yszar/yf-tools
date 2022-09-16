@@ -60,7 +60,8 @@
         "usingComponents": true,
         "uniStatistics": {
             "enable": true
-        }
+        },
+        "lazyCodeLoading": "requiredComponents"
     },
     "vueVersion": "3",
     "locale": "auto",
