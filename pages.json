@@ -25,7 +25,7 @@
         "pages": [{
             "path": "removeLogo/removeLogo",
             "style": {
-                "navigationBarTitleText": "",
+                "navigationBarTitleText": "雨非-视频去水印",
                 "enablePullDownRefresh": false
             }
         }, {
